@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Adopt dog</string>
+    <string name="action_insert_dummy_data">insert</string>
+    <string name="action_delete_dummy_data">delete</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">delete</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_unknown">Unknown</string>
+    <string name="gender_male">Male</string>
+    <string name="alert_message_unsaved_data">Discard your changes and quit editing?</string>
+    <string name="alert_Dialog_dicard_button_text">Discard</string>
+    <string name="alert_dialog_keepediting_button_text">Keep Editing</string>
+    <string name="alert_message_delete_data">Delete the pet data</string>
+    <string name="alert_delete_button">Delete</string>
+    <string name="alert_canceldelete_button">Cancel</string>
+</resources>
